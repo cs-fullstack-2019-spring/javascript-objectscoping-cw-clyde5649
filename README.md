@@ -1,3 +1,5 @@
+### KEY: No code submission found
+
 # JavaScript Object/Scope Classwork
 
 1. What is the result of the following code? Explain your answer.
